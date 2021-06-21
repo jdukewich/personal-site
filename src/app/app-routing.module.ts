@@ -9,7 +9,7 @@ import { WorkComponent } from './work/work.component';
 const routes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'about', component: AboutComponent },
-  { path: 'resume', component: ResumeComponent },
+  // { path: 'resume', component: ResumeComponent },
   { path: 'work', component: WorkComponent },
   { path: 'contact', component: ContactComponent },
   { path: '**', redirectTo: '', pathMatch: 'full' }

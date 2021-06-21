@@ -1,5 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 body {
-    color: #fff;
-    background-color: rgba(51,102,153,.5);
+    background-color: rgba(42, 42, 46, 0.8);
+    background-image: url("assets/oldmain.jpg");
+    background-position: 50% 30%;
+    padding-top: 65px;
+}
+
+.card {
+    border-radius: 8px;
 }
