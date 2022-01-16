@@ -18,3 +18,7 @@ I forked the self-hosted website analytics called [Ackee](https://github.com/ele
 I made this website to serve as a way to toggle an AWS EC2 server on and off. This will allow you to save costs instead of having the EC2 always running. Some use cases could include hosting dedicated servers for games like Minecraft, while minimizing your cost.
 
 [Github Repository](https://github.com/jdukewich/ec2-toggle) (opens in new tab) 
+
+## Certifications
+### AWS Solutions Architect Associate
+I am a certified AWS Solutions Architect Associate. You can validate my credentials [here](https://aws.amazon.com/verification) with Validation Number E6L3GKVLFNEEQGKF.
