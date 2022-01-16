@@ -1,6 +1,7 @@
 site_name: John Dukewich
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
@@ -26,4 +27,6 @@ extra:
       link: https://www.linkedin.com/in/john-dukewich
     - icon: fontawesome/brands/github
       link: https://github.com/jdukewich
+  analytics:
+    provider: custom
 
