@@ -16,6 +16,7 @@ theme:
   features:
     - navigation.instant
     - navigation.top
+    - navigation.indexes
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
@@ -29,4 +30,10 @@ extra:
       link: https://github.com/jdukewich
   analytics:
     provider: custom
-
+nav:
+  - Home: index.md
+  - About:
+    - about/index.md
+    - Utah: about/utah.md
+  - Contact: contact.md
+  - My Work: work.md
