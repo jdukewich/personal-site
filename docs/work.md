@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+pagination_next: null
+pagination_prev: null
+---
 # My Work
 I enjoy programming side projects to help make some things easier. You can find more on my [Github](https://github.com/jdukewich) (opens in new tab). The following projects are some examples of work I've done on the side or for school.
 ___
@@ -15,7 +20,7 @@ I forked the self-hosted website analytics called [Ackee](https://github.com/ele
 
 ## AWS Server Toggle
 
-I made this website to serve as a way to toggle an AWS EC2 server on and off. This will allow you to save costs instead of having the EC2 always running. Some use cases could include hosting dedicated servers for games like Minecraft, while minimizing your cost.
+I made this website to serve as a way to toggle an AWS EC2 server on and off. This will allow you to save costs instead of having the EC2 always running. Some use cases could include hosting dedicated servers for games like Minecraft while minimizing your cost.
 
 [Github Repository](https://github.com/jdukewich/ec2-toggle) (opens in new tab) 
 
