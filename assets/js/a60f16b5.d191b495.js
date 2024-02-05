@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal=self.webpackChunkpersonal||[]).push([[86],{1540:a=>{a.exports=JSON.parse('{"label":"national park","permalink":"/blog/tags/national-park","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

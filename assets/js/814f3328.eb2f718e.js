@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal=self.webpackChunkpersonal||[]).push([[631],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Summer 2021 Utah Trip","permalink":"/blog/utah","unlisted":false}]}')}}]);
